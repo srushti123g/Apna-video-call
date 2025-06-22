@@ -1,4 +1,4 @@
-frontend1/node_modules
+frontend/node_modules
 # Ignore the build output directory
 
 backend/node_modules
